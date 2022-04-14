@@ -1,0 +1,37 @@
+body
+{
+   background-color: rgb(182, 241, 64);
+}
+
+#score
+{
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 1250px;
+}
+
+#time
+{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 1100px;
+}
+
+#user_sketch
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#confidence
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#suggestion
+{
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
